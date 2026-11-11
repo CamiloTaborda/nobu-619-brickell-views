@@ -1,0 +1,11 @@
+node_modules
+.next
+next-env.d.ts
+.DS_Store
+.env*
+assets/plans/source/*
+!assets/plans/source/.gitkeep
+.cache
+*.log
+*.tsbuildinfo
+__pycache__
