@@ -1,0 +1,48 @@
+/* Tema de Tailwind: cada token genera sus utilidades (bg-paper, tracking-caps, left-gutter…). */
+@theme inline {
+  /* Color */
+  --color-ink: #0b0b0c;
+  --color-shade: #080e14;
+  --color-paper: #f7f4ee;
+  --color-paper-2: rgb(247 244 238 / 0.74);
+  --color-paper-3: rgb(247 244 238 / 0.52);
+  --color-hairline: rgb(255 255 255 / 0.14);
+  --color-champagne: #e3cfa8;
+
+  /* Tipografía: seguimiento específico por tamaño. */
+  --font-display: var(--next-display), 'Times New Roman', serif;
+  --font-sans: var(--next-ui), system-ui, sans-serif;
+  --text-2xs: 0.6875rem;
+  --text-ui: 0.8125rem;
+  --tracking-display: -0.02em;
+  --tracking-title: -0.012em;
+  --tracking-small: 0.01em;
+  --tracking-caps: 0.16em;
+
+  /* Espaciado y forma */
+  --spacing-gutter: clamp(1rem, 2.6vw, 2.25rem);
+  --spacing-tap: 2.75rem;
+  --spacing-plans: 32rem;
+  --radius-control: 0.75rem;
+  --radius-panel: 1.25rem;
+}
+
+:root {
+  --safe-top: max(var(--spacing-gutter), env(safe-area-inset-top));
+  --safe-bottom: max(var(--spacing-gutter), env(safe-area-inset-bottom));
+  --safe-edge: max(0.5rem, env(safe-area-inset-bottom));
+
+  /* Alto del plano en el panel: protagonista, sin dejar a la lista sin espacio. */
+  --plan-height: min(56dvh, 100dvh - 24rem);
+
+  /* Materiales: cuanto mayor la superficie, más gruesa. */
+  --material-bg: rgb(18 18 20 / 0.46);
+  --material-blur: blur(24px) saturate(170%);
+  --material-edge: inset 0 1px 0 rgb(255 255 255 / 0.16), inset 0 0 0 1px rgb(255 255 255 / 0.07);
+  --material-shadow: 0 12px 40px rgb(0 0 0 / 0.28);
+  --sheet-bg: rgb(14 14 16 / 0.76);
+  --sheet-blur: blur(44px) saturate(160%);
+  --sheet-shadow: -24px 0 80px rgb(0 0 0 / 0.4);
+
+  color-scheme: dark;
+}

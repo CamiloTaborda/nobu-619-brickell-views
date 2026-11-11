@@ -1,0 +1,203 @@
+@import 'tailwindcss';
+@import './tokens.css';
+
+/* Altura justa: los controles verticales se compactan. Va antes de `compact` para que este prevalezca. */
+@custom-variant low {
+  @media (max-height: 720px) {
+    @slot;
+  }
+}
+
+/* Pantallas donde la interfaz se reorganiza: móvil, vertical o muy poca altura. */
+@custom-variant compact {
+  @media (max-width: 760px) {
+    @slot;
+  }
+  @media (max-height: 560px) {
+    @slot;
+  }
+  @media (max-aspect-ratio: 1/1) {
+    @slot;
+  }
+}
+
+/* Muy poca altura (móvil apaisado): no cabe una columna fija más una lista. */
+@custom-variant short {
+  @media (max-height: 560px) {
+    @slot;
+  }
+}
+
+@media (max-height: 560px) {
+  :root {
+    --plan-height: 50dvh;
+  }
+}
+
+@layer base {
+  html,
+  body {
+    height: 100%;
+  }
+  body {
+    background: var(--color-ink);
+    color: var(--color-paper);
+    font-family: var(--font-sans);
+    font-optical-sizing: auto;
+    -webkit-font-smoothing: antialiased;
+    overflow: hidden;
+  }
+  button {
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  svg path {
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.4;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  :focus-visible {
+    outline: 1.5px solid var(--color-champagne);
+    outline-offset: 2px;
+  }
+}
+
+/* La respuesta ocurre al pulsar, no al soltar. */
+@utility press {
+  transition:
+    transform 100ms ease-out,
+    background-color 160ms ease,
+    color 160ms ease,
+    opacity 160ms ease;
+  &:active {
+    transform: scale(0.97);
+  }
+}
+
+@utility material {
+  background: var(--material-bg);
+  -webkit-backdrop-filter: var(--material-blur);
+  backdrop-filter: var(--material-blur);
+  box-shadow: var(--material-edge), var(--material-shadow);
+}
+
+@utility material-sheet {
+  background: var(--sheet-bg);
+  -webkit-backdrop-filter: var(--sheet-blur);
+  backdrop-filter: var(--sheet-blur);
+}
+
+/* Fundido en los bordes donde el contenido se desplaza bajo el control. */
+@utility edge-fade-x {
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 0.5rem, #000 calc(100% - 0.5rem), transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 0.5rem, #000 calc(100% - 0.5rem), transparent);
+}
+
+@utility edge-fade-y {
+  -webkit-mask-image: linear-gradient(180deg, transparent, #000 0.75rem, #000 calc(100% - 1.5rem), transparent);
+  mask-image: linear-gradient(180deg, transparent, #000 0.75rem, #000 calc(100% - 1.5rem), transparent);
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Estado de carga discreto: nunca tapa la fotografía. */
+@utility progress-sweep {
+  background: linear-gradient(90deg, transparent, var(--color-champagne), transparent) no-repeat;
+  background-size: 40% 100%;
+  animation: pano-progress 1.5s ease-in-out infinite;
+}
+@keyframes pano-progress {
+  from {
+    background-position: -60% 0;
+  }
+  to {
+    background-position: 160% 0;
+  }
+}
+
+/* Arranque: la torre sube piso a piso. Solo `transform` y `opacity`, para que no dependa del hilo principal. */
+@utility splash-rise {
+  animation: splash-rise 16s cubic-bezier(0.12, 0.75, 0.25, 1) both;
+}
+@keyframes splash-rise {
+  to {
+    transform: translateY(-100%);
+  }
+}
+@utility splash-enter {
+  animation: splash-enter 900ms ease-out both;
+}
+@keyframes splash-enter {
+  from {
+    opacity: 0;
+  }
+}
+
+/* Planta en carga: las residencias se dibujan a trazo. Espera un instante para no parpadear si ya está lista. */
+@utility plan-trace {
+  stroke-dasharray: 1;
+  animation: plan-trace 2.2s cubic-bezier(0.65, 0, 0.35, 1) 120ms infinite backwards;
+}
+@keyframes plan-trace {
+  from {
+    stroke-dashoffset: 1;
+  }
+  70%,
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.psv-loader-container {
+  display: none;
+}
+
+/* El cursor anuncia hacia dónde se puede mirar: de lado a lado y, con zoom, también arriba y abajo. */
+.psv-container {
+  cursor: ew-resize !important;
+}
+[data-tilt='true'] > .psv-container {
+  cursor: move !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .press,
+  .press:active {
+    transition: opacity 120ms ease;
+    transform: none;
+  }
+  .progress-sweep {
+    animation: none;
+    background-position: 50% 0;
+  }
+  .splash-rise {
+    animation: none;
+    transform: translateY(-100%);
+  }
+  .plan-trace {
+    animation: none;
+    stroke-dashoffset: 0;
+  }
+}
+@media (prefers-reduced-transparency: reduce) {
+  :root {
+    --material-bg: rgb(24 24 26);
+    --material-blur: none;
+    --sheet-bg: rgb(18 18 20);
+    --sheet-blur: none;
+  }
+}
+@media (prefers-contrast: more) {
+  :root {
+    --material-bg: rgb(10 10 11);
+    --sheet-bg: rgb(10 10 11);
+    --material-edge: inset 0 0 0 1px rgb(255 255 255 / 0.7);
+  }
+}
