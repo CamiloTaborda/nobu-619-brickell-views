@@ -1,0 +1,113 @@
+{
+  "$comment": "Modelo del edificio. Fuente inicial: tour de referencia (Drone Genius) + hoja de activos de Inflight. TODO: validar contra 619-BRICKELL.pdf (planos de venta) — ver docs/02-auditoria-activos.md.",
+  "project": {
+    "name": "Nobu Residences 619 Brickell",
+    "shortName": "619 Brickell",
+    "city": "Miami, FL",
+    "client": "13th Floor Investments · Key International",
+    "inflightJob": "PRJ2589 - 609 BRICKELL AVE",
+    "location": { "lat": 25.76742, "lng": -80.18858 },
+    "topLevel": 71,
+    "disclaimer": "Views are photographed by drone at the approximate height of each floor and are illustrative. Actual views may vary and may change with future construction."
+  },
+  "times": [
+    { "id": "day", "label": "Day", "labelEs": "Día" },
+    { "id": "twilight", "label": "Twilight", "labelEs": "Atardecer" }
+  ],
+  "collections": [
+    {
+      "id": "C5",
+      "name": "Collection 5",
+      "tag": "C5",
+      "levels": [62, 71],
+      "plan": "plans/collection-5.webp",
+      "positions": ["A", "B", "B-W", "D"],
+      "residences": [
+        { "id": "5CA", "line": "A", "sf": 2876, "layout": "3 Bed · 4.5 Bath + Den" },
+        { "id": "5CC", "line": "BC", "sf": 5534, "layout": "5 Bed · 6.5 Bath + Den + Game Room", "note": "B y C combinadas en una residencia" },
+        { "id": "5CD", "line": "D", "sf": 2876, "layout": "3 Bed · 4.5 Bath + Den" }
+      ]
+    },
+    {
+      "id": "C4",
+      "name": "Collection 4",
+      "tag": "C4",
+      "levels": [46, 59],
+      "plan": "plans/collection-4.webp",
+      "positions": ["A", "B", "B-W", "C", "C-W", "D", "E"],
+      "residences": [
+        { "id": "4CA", "line": "A", "sf": 3178, "layout": "4 Bed · 5.5 Bath + Den" },
+        { "id": "4CB", "line": "B", "sf": 2763, "layout": "3 Bed · 4.5 Bath + Den · ALT 2 Bed · 3.5 Bath" },
+        { "id": "4CC", "line": "C", "sf": 2757, "layout": "3 Bed · 4.5 Bath + Den · ALT 2 Bed · 3.5 Bath" },
+        { "id": "4CD", "line": "D", "sf": 1489, "layout": "2 Bed · 2.5 Bath" },
+        { "id": "4CE", "line": "E", "sf": 1172, "layout": "1 Bed · 1.5 Bath + Den" }
+      ]
+    },
+    {
+      "id": "C3",
+      "name": "Collection 3",
+      "tag": "C3",
+      "levels": [30, 43],
+      "plan": "plans/collection-3.webp",
+      "positions": ["A", "B", "B-W", "C", "C-W", "D", "E", "F"],
+      "residences": [
+        { "id": "3CA", "line": "A", "sf": 1686, "layout": "2 Bed · 2.5 Bath + Den" },
+        { "id": "3CB", "line": "B", "sf": 2426, "layout": "2 Bed · 2.5 Bath + Den" },
+        { "id": "3CC", "line": "C", "sf": 3094, "layout": "3 Bed · 4.5 Bath + Den" },
+        { "id": "3CD", "line": "D", "sf": 1502, "layout": "2 Bed · 2.5 Bath + Den" },
+        { "id": "3CE", "line": "E", "sf": 1351, "layout": "2 Bed · 2.5 Bath" },
+        { "id": "3CF", "line": "F", "sf": 1189, "layout": "1 Bed · 1.5 Bath" }
+      ]
+    },
+    {
+      "id": "C2",
+      "name": "Collection 2",
+      "tag": "C2",
+      "levels": [12, 27],
+      "plan": "plans/collection-2.webp",
+      "positions": ["A", "B", "B-W", "C", "C-W", "D", "E", "F"],
+      "residences": [
+        { "id": "2CA", "line": "A", "sf": 1686, "layout": "2 Bed · 2.5 Bath + Den" },
+        { "id": "2CB", "line": "B", "sf": 2754, "layout": "3 Bed · 4.5 Bath + Den" },
+        { "id": "2CC", "line": "C", "sf": 2747, "layout": "3 Bed · 4.5 Bath + Den" },
+        { "id": "2CD", "line": "D", "sf": 1656, "layout": "2 Bed · 2.5 Bath + Den" },
+        { "id": "2CE", "line": "E", "sf": 1364, "layout": "2 Bed · 2.5 Bath" },
+        { "id": "2CF", "line": "F", "sf": 1367, "layout": "2 Bed · 2.5 Bath" }
+      ]
+    },
+    {
+      "id": "C1",
+      "name": "Lower Levels",
+      "tag": "Lower",
+      "levels": [1, 11],
+      "plan": null,
+      "positions": ["A", "B", "B-W", "C", "C-W", "D", "E", "F"],
+      "residences": [],
+      "$comment": "Según 619-BRICKELL.pdf: nivel 4 = gimnasio (G04); nivel 7 = garaje G09 + unidades 1C, por eso los archivos dicen 'GYM' y 'G9'. Sin residencias a la venta definidas aquí."
+    }
+  ],
+  "capturedLevels": [
+    { "level": 71, "collection": "C5" },
+    { "level": 65, "collection": "C5" },
+    { "level": 58, "collection": "C4" },
+    { "level": 51, "collection": "C4" },
+    { "level": 43, "collection": "C3" },
+    { "level": 37, "collection": "C3" },
+    { "level": 30, "collection": "C3" },
+    { "level": 23, "collection": "C2" },
+    { "level": 16, "collection": "C2" },
+    { "level": 7, "collection": "C1", "alias": "G9" },
+    { "level": 4, "collection": "C1", "alias": "GYM", "label": "Gym Level" }
+  ],
+  "positions": {
+    "$comment": "La orientación real de cada foto está en data/headings.json (scripts/calibrate-headings.py). Medida así: A mira al sur-sureste, B y C al este (bahía), sus variantes -W al oeste, D al noreste, E al norte y F al suroeste; los nombres de archivo no son fiables.",
+    "A": { "label": "Unit A" },
+    "B": { "label": "Unit B" },
+    "B-W": { "label": "Unit B · West" },
+    "C": { "label": "Unit C", "sharesPhotoWith": "B" },
+    "C-W": { "label": "Unit C · West", "sharesPhotoWith": "B-W" },
+    "D": { "label": "Unit D" },
+    "E": { "label": "Unit E" },
+    "F": { "label": "Unit F" }
+  }
+}

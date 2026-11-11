@@ -1,0 +1,2880 @@
+{
+  "generatedAt": "2026-11-09T20:44:12.150Z",
+  "source": "data/source/for-assessment.csv + panorama-links.json",
+  "count": 162,
+  "levels": [
+    71,
+    65,
+    58,
+    51,
+    43,
+    37,
+    30,
+    23,
+    16,
+    7,
+    4
+  ],
+  "positionsByLevel": {
+    "4": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D",
+      "F"
+    ],
+    "7": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D",
+      "E",
+      "F"
+    ],
+    "16": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D",
+      "E",
+      "F"
+    ],
+    "23": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D",
+      "E",
+      "F"
+    ],
+    "30": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D",
+      "E",
+      "F"
+    ],
+    "37": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D",
+      "E",
+      "F"
+    ],
+    "43": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D",
+      "E",
+      "F"
+    ],
+    "51": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D",
+      "E"
+    ],
+    "58": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D",
+      "E"
+    ],
+    "65": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D"
+    ],
+    "71": [
+      "A",
+      "B",
+      "B-W",
+      "C",
+      "C-W",
+      "D"
+    ]
+  },
+  "problems": [],
+  "items": [
+    {
+      "id": "L71-A-day",
+      "level": 71,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0577-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0577-UNIT+A/indexdata/",
+      "folder": "0577-UNIT A",
+      "shot": "0577",
+      "sheet": {
+        "row": 97,
+        "label": "LEVEL 71 UNIT A"
+      }
+    },
+    {
+      "id": "L71-A-twilight",
+      "level": 71,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0055-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0055-UNIT+A/indexdata/",
+      "folder": "0055-UNIT A",
+      "shot": "0055",
+      "sheet": {
+        "row": 3,
+        "label": "LEVEL 71 UNIT A"
+      }
+    },
+    {
+      "id": "L71-B-day",
+      "level": 71,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0017-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0017-UNIT+B/indexdata/",
+      "folder": "0017-UNIT B",
+      "shot": "0017",
+      "sheet": {
+        "row": 98,
+        "label": "LEVEL 71 UNIT B"
+      }
+    },
+    {
+      "id": "L71-B-twilight",
+      "level": 71,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0808-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0808-UNIT+B/indexdata/",
+      "folder": "0808-UNIT B",
+      "shot": "0808",
+      "sheet": {
+        "row": 4,
+        "label": "LEVEL 71 UNIT B"
+      }
+    },
+    {
+      "id": "L71-B-W-day",
+      "level": 71,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0017-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0017-UNIT+B+WEST/indexdata/",
+      "folder": "0017-UNIT B WEST",
+      "shot": "0017",
+      "sheet": {
+        "row": 99,
+        "label": "LEVEL 71 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L71-B-W-twilight",
+      "level": 71,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0808-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0808-UNIT+B+WEST/indexdata/",
+      "folder": "0808-UNIT B WEST",
+      "shot": "0808",
+      "sheet": {
+        "row": 5,
+        "label": "LEVEL 71 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L71-C-day",
+      "level": 71,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0017-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0017-UNIT+C/indexdata/",
+      "folder": "0017-UNIT C",
+      "shot": "0017",
+      "sheet": {
+        "row": 100,
+        "label": "LEVEL 71 UNIT C"
+      }
+    },
+    {
+      "id": "L71-C-twilight",
+      "level": 71,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0808-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0808-UNIT+C/indexdata/",
+      "folder": "0808-UNIT C",
+      "shot": "0808",
+      "sheet": {
+        "row": 6,
+        "label": "LEVEL 71 UNIT C"
+      }
+    },
+    {
+      "id": "L71-C-W-day",
+      "level": 71,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0017-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0017-UNIT+C+WEST/indexdata/",
+      "folder": "0017-UNIT C WEST",
+      "shot": "0017",
+      "sheet": {
+        "row": 101,
+        "label": "LEVEL 71 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L71-C-W-twilight",
+      "level": 71,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0808-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0808-UNIT+C+WEST/indexdata/",
+      "folder": "0808-UNIT C WEST",
+      "shot": "0808",
+      "sheet": {
+        "row": 7,
+        "label": "LEVEL 71 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L71-D-day",
+      "level": 71,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0187-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+71/0187-UNIT+D/indexdata/",
+      "folder": "0187-UNIT D",
+      "shot": "0187",
+      "sheet": {
+        "row": 102,
+        "label": "LEVEL 71 UNIT D"
+      }
+    },
+    {
+      "id": "L71-D-twilight",
+      "level": 71,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0284-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+71/0284-UNIT+D/indexdata/",
+      "folder": "0284-UNIT D",
+      "shot": "0284",
+      "sheet": {
+        "row": 8,
+        "label": "LEVEL 71 UNIT D"
+      }
+    },
+    {
+      "id": "L65-A-day",
+      "level": 65,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0578-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0578-UNIT+A/indexdata/",
+      "folder": "0578-UNIT A",
+      "shot": "0578",
+      "sheet": {
+        "row": 104,
+        "label": "LEVEL 65 UNIT A"
+      }
+    },
+    {
+      "id": "L65-A-twilight",
+      "level": 65,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0056-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0056-UNIT+A/indexdata/",
+      "folder": "0056-UNIT A",
+      "shot": "0056",
+      "sheet": {
+        "row": 10,
+        "label": "LEVEL 65 UNIT A"
+      }
+    },
+    {
+      "id": "L65-B-day",
+      "level": 65,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0018-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0018-UNIT+B/indexdata/",
+      "folder": "0018-UNIT B",
+      "shot": "0018",
+      "sheet": {
+        "row": 105,
+        "label": "LEVEL 65 UNIT B"
+      }
+    },
+    {
+      "id": "L65-B-twilight",
+      "level": 65,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0809-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0809-UNIT+B/indexdata/",
+      "folder": "0809-UNIT B",
+      "shot": "0809",
+      "sheet": {
+        "row": 11,
+        "label": "LEVEL 65 UNIT B"
+      }
+    },
+    {
+      "id": "L65-B-W-day",
+      "level": 65,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0018-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0018-UNIT+B+WEST/indexdata/",
+      "folder": "0018-UNIT B WEST",
+      "shot": "0018",
+      "sheet": {
+        "row": 106,
+        "label": "LEVEL 65 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L65-B-W-twilight",
+      "level": 65,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0809-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0809-UNIT+B+WEST/indexdata/",
+      "folder": "0809-UNIT B WEST",
+      "shot": "0809",
+      "sheet": {
+        "row": 12,
+        "label": "LEVEL 65 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L65-C-day",
+      "level": 65,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0018-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0018-UNIT+C/indexdata/",
+      "folder": "0018-UNIT C",
+      "shot": "0018",
+      "sheet": {
+        "row": 107,
+        "label": "LEVEL 65 UNIT C"
+      }
+    },
+    {
+      "id": "L65-C-twilight",
+      "level": 65,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0809-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0809-UNIT+C/indexdata/",
+      "folder": "0809-UNIT C",
+      "shot": "0809",
+      "sheet": {
+        "row": 13,
+        "label": "LEVEL 65 UNIT C"
+      }
+    },
+    {
+      "id": "L65-C-W-day",
+      "level": 65,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0018-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0018-UNIT+C+WEST/indexdata/",
+      "folder": "0018-UNIT C WEST",
+      "shot": "0018",
+      "sheet": {
+        "row": 108,
+        "label": "LEVEL 65 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L65-C-W-twilight",
+      "level": 65,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0809-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0809-UNIT+C+WEST/indexdata/",
+      "folder": "0809-UNIT C WEST",
+      "shot": "0809",
+      "sheet": {
+        "row": 14,
+        "label": "LEVEL 65 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L65-D-day",
+      "level": 65,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0188-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+65/0188-UNIT+D/indexdata/",
+      "folder": "0188-UNIT D",
+      "shot": "0188",
+      "sheet": {
+        "row": 109,
+        "label": "LEVEL 65 UNIT D"
+      }
+    },
+    {
+      "id": "L65-D-twilight",
+      "level": 65,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0285-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+65/0285-UNIT+D/indexdata/",
+      "folder": "0285-UNIT D",
+      "shot": "0285",
+      "sheet": {
+        "row": 15,
+        "label": "LEVEL 65 UNIT D"
+      }
+    },
+    {
+      "id": "L58-A-day",
+      "level": 58,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0579-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0579-UNIT+A/indexdata/",
+      "folder": "0579-UNIT A",
+      "shot": "0579",
+      "sheet": {
+        "row": 111,
+        "label": "LEVEL 58 UNIT A"
+      }
+    },
+    {
+      "id": "L58-A-twilight",
+      "level": 58,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0057-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0057-UNIT+A/indexdata/",
+      "folder": "0057-UNIT A",
+      "shot": "0057",
+      "sheet": {
+        "row": 17,
+        "label": "LEVEL 58 UNIT A"
+      }
+    },
+    {
+      "id": "L58-B-day",
+      "level": 58,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0019-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0019-UNIT+B/indexdata/",
+      "folder": "0019-UNIT B",
+      "shot": "0019",
+      "sheet": {
+        "row": 112,
+        "label": "LEVEL 58 UNIT B"
+      }
+    },
+    {
+      "id": "L58-B-twilight",
+      "level": 58,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0810-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0810-UNIT+B/indexdata/",
+      "folder": "0810-UNIT B",
+      "shot": "0810",
+      "sheet": {
+        "row": 18,
+        "label": "LEVEL 58 UNIT B"
+      }
+    },
+    {
+      "id": "L58-B-W-day",
+      "level": 58,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0019-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0019-UNIT+B+WEST/indexdata/",
+      "folder": "0019-UNIT B WEST",
+      "shot": "0019",
+      "sheet": {
+        "row": 113,
+        "label": "LEVEL 58 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L58-B-W-twilight",
+      "level": 58,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0810-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0810-UNIT+B+WEST/indexdata/",
+      "folder": "0810-UNIT B WEST",
+      "shot": "0810",
+      "sheet": {
+        "row": 19,
+        "label": "LEVEL 58 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L58-C-day",
+      "level": 58,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0019-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0019-UNIT+C/indexdata/",
+      "folder": "0019-UNIT C",
+      "shot": "0019",
+      "sheet": {
+        "row": 114,
+        "label": "LEVEL 58 UNIT C"
+      }
+    },
+    {
+      "id": "L58-C-twilight",
+      "level": 58,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0810-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0810-UNIT+C/indexdata/",
+      "folder": "0810-UNIT C",
+      "shot": "0810",
+      "sheet": {
+        "row": 20,
+        "label": "LEVEL 58 UNIT C"
+      }
+    },
+    {
+      "id": "L58-C-W-day",
+      "level": 58,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0019-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0019-UNIT+C+WEST/indexdata/",
+      "folder": "0019-UNIT C WEST",
+      "shot": "0019",
+      "sheet": {
+        "row": 115,
+        "label": "LEVEL 58 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L58-C-W-twilight",
+      "level": 58,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0810-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0810-UNIT+C+WEST/indexdata/",
+      "folder": "0810-UNIT C WEST",
+      "shot": "0810",
+      "sheet": {
+        "row": 21,
+        "label": "LEVEL 58 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L58-D-day",
+      "level": 58,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0189-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0189-UNIT+D/indexdata/",
+      "folder": "0189-UNIT D",
+      "shot": "0189",
+      "sheet": {
+        "row": 116,
+        "label": "LEVEL 58 UNIT D"
+      }
+    },
+    {
+      "id": "L58-D-twilight",
+      "level": 58,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0286-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0286-UNIT+D/indexdata/",
+      "folder": "0286-UNIT D",
+      "shot": "0286",
+      "sheet": {
+        "row": 22,
+        "label": "LEVEL 58 UNIT D"
+      }
+    },
+    {
+      "id": "L58-E-day",
+      "level": 58,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0189-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+58/0189-UNIT+E/indexdata/",
+      "folder": "0189-UNIT E",
+      "shot": "0189",
+      "sheet": {
+        "row": 117,
+        "label": "LEVEL 58 UNIT E"
+      }
+    },
+    {
+      "id": "L58-E-twilight",
+      "level": 58,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0286-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+58/0286-UNIT+E/indexdata/",
+      "folder": "0286-UNIT E",
+      "shot": "0286",
+      "sheet": {
+        "row": 23,
+        "label": "LEVEL 58 UNIT E"
+      }
+    },
+    {
+      "id": "L51-A-day",
+      "level": 51,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0580-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0580-UNIT+A/indexdata/",
+      "folder": "0580-UNIT A",
+      "shot": "0580",
+      "sheet": {
+        "row": 119,
+        "label": "LEVEL 51 UNIT A"
+      }
+    },
+    {
+      "id": "L51-A-twilight",
+      "level": 51,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0058-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0058-UNIT+A/indexdata/",
+      "folder": "0058-UNIT A",
+      "shot": "0058",
+      "sheet": {
+        "row": 25,
+        "label": "LEVEL 51 UNIT A"
+      }
+    },
+    {
+      "id": "L51-B-day",
+      "level": 51,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0020-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0020-UNIT+B/indexdata/",
+      "folder": "0020-UNIT B",
+      "shot": "0020",
+      "sheet": {
+        "row": 120,
+        "label": "LEVEL 51 UNIT B"
+      }
+    },
+    {
+      "id": "L51-B-twilight",
+      "level": 51,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0811-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0811-UNIT+B/indexdata/",
+      "folder": "0811-UNIT B",
+      "shot": "0811",
+      "sheet": {
+        "row": 26,
+        "label": "LEVEL 51 UNIT B"
+      }
+    },
+    {
+      "id": "L51-B-W-day",
+      "level": 51,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0020-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0020-UNIT+B+WEST/indexdata/",
+      "folder": "0020-UNIT B WEST",
+      "shot": "0020",
+      "sheet": {
+        "row": 121,
+        "label": "LEVEL 51 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L51-B-W-twilight",
+      "level": 51,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0811-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0811-UNIT+B+WEST/indexdata/",
+      "folder": "0811-UNIT B WEST",
+      "shot": "0811",
+      "sheet": {
+        "row": 27,
+        "label": "LEVEL 51 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L51-C-day",
+      "level": 51,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0020-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0020-UNIT+C/indexdata/",
+      "folder": "0020-UNIT C",
+      "shot": "0020",
+      "sheet": {
+        "row": 122,
+        "label": "LEVEL 51 UNIT C"
+      }
+    },
+    {
+      "id": "L51-C-twilight",
+      "level": 51,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0811-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0811-UNIT+C/indexdata/",
+      "folder": "0811-UNIT C",
+      "shot": "0811",
+      "sheet": {
+        "row": 28,
+        "label": "LEVEL 51 UNIT C"
+      }
+    },
+    {
+      "id": "L51-C-W-day",
+      "level": 51,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0020-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0020-UNIT+C+WEST/indexdata/",
+      "folder": "0020-UNIT C WEST",
+      "shot": "0020",
+      "sheet": {
+        "row": 123,
+        "label": "LEVEL 51 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L51-C-W-twilight",
+      "level": 51,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0811-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0811-UNIT+C+WEST/indexdata/",
+      "folder": "0811-UNIT C WEST",
+      "shot": "0811",
+      "sheet": {
+        "row": 29,
+        "label": "LEVEL 51 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L51-D-day",
+      "level": 51,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0190-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0190-UNIT+D/indexdata/",
+      "folder": "0190-UNIT D",
+      "shot": "0190",
+      "sheet": {
+        "row": 124,
+        "label": "LEVEL 51 UNIT D"
+      }
+    },
+    {
+      "id": "L51-D-twilight",
+      "level": 51,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0287-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0287-UNIT+D/indexdata/",
+      "folder": "0287-UNIT D",
+      "shot": "0287",
+      "sheet": {
+        "row": 30,
+        "label": "LEVEL 51 UNIT D"
+      }
+    },
+    {
+      "id": "L51-E-day",
+      "level": 51,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0190-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+51/0190-UNIT+E/indexdata/",
+      "folder": "0190-UNIT E",
+      "shot": "0190",
+      "sheet": {
+        "row": 125,
+        "label": "LEVEL 51 UNIT E"
+      }
+    },
+    {
+      "id": "L51-E-twilight",
+      "level": 51,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0287-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+51/0287-UNIT+E/indexdata/",
+      "folder": "0287-UNIT E",
+      "shot": "0287",
+      "sheet": {
+        "row": 31,
+        "label": "LEVEL 51 UNIT E"
+      }
+    },
+    {
+      "id": "L43-A-day",
+      "level": 43,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0581-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0581-UNIT+A/indexdata/",
+      "folder": "0581-UNIT A",
+      "shot": "0581",
+      "sheet": {
+        "row": 127,
+        "label": "LEVEL 43 - UNIT A"
+      }
+    },
+    {
+      "id": "L43-A-twilight",
+      "level": 43,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0059-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0059-UNIT+A/indexdata/",
+      "folder": "0059-UNIT A",
+      "shot": "0059",
+      "sheet": {
+        "row": 33,
+        "label": "LEVEL 43 - UNIT A"
+      }
+    },
+    {
+      "id": "L43-B-day",
+      "level": 43,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0021-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0021-UNIT+B/indexdata/",
+      "folder": "0021-UNIT B",
+      "shot": "0021",
+      "sheet": {
+        "row": 128,
+        "label": "LEVEL 43 - UNIT B"
+      }
+    },
+    {
+      "id": "L43-B-twilight",
+      "level": 43,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0812-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0812-UNIT+B/indexdata/",
+      "folder": "0812-UNIT B",
+      "shot": "0812",
+      "sheet": {
+        "row": 34,
+        "label": "LEVEL 43 - UNIT B"
+      }
+    },
+    {
+      "id": "L43-B-W-day",
+      "level": 43,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0021-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0021-UNIT+B+WEST/indexdata/",
+      "folder": "0021-UNIT B WEST",
+      "shot": "0021",
+      "sheet": {
+        "row": 129,
+        "label": "LEVEL 43 - UNIT B WEST"
+      }
+    },
+    {
+      "id": "L43-B-W-twilight",
+      "level": 43,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0812-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0812-UNIT+B+WEST/indexdata/",
+      "folder": "0812-UNIT B WEST",
+      "shot": "0812",
+      "sheet": {
+        "row": 35,
+        "label": "LEVEL 43 - UNIT B WEST"
+      }
+    },
+    {
+      "id": "L43-C-day",
+      "level": 43,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0021-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0021-UNIT+C/indexdata/",
+      "folder": "0021-UNIT C",
+      "shot": "0021",
+      "sheet": {
+        "row": 130,
+        "label": "LEVEL 43 - UNIT C"
+      }
+    },
+    {
+      "id": "L43-C-twilight",
+      "level": 43,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0812-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0812-UNIT+C/indexdata/",
+      "folder": "0812-UNIT C",
+      "shot": "0812",
+      "sheet": {
+        "row": 36,
+        "label": "LEVEL 43 - UNIT C"
+      }
+    },
+    {
+      "id": "L43-C-W-day",
+      "level": 43,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0021-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0021-UNIT+C+WEST/indexdata/",
+      "folder": "0021-UNIT C WEST",
+      "shot": "0021",
+      "sheet": {
+        "row": 131,
+        "label": "LEVEL 43 - UNIT C WEST"
+      }
+    },
+    {
+      "id": "L43-C-W-twilight",
+      "level": 43,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0812-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0812-UNIT+C+WEST/indexdata/",
+      "folder": "0812-UNIT C WEST",
+      "shot": "0812",
+      "sheet": {
+        "row": 37,
+        "label": "LEVEL 43 - UNIT C WEST"
+      }
+    },
+    {
+      "id": "L43-D-day",
+      "level": 43,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0191-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0191-UNIT+D/indexdata/",
+      "folder": "0191-UNIT D",
+      "shot": "0191",
+      "sheet": {
+        "row": 132,
+        "label": "LEVEL 43 - UNIT D"
+      }
+    },
+    {
+      "id": "L43-D-twilight",
+      "level": 43,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0412-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0412-UNIT+D/indexdata/",
+      "folder": "0412-UNIT D",
+      "shot": "0412",
+      "sheet": {
+        "row": 38,
+        "label": "LEVEL 43 - UNIT D"
+      }
+    },
+    {
+      "id": "L43-E-day",
+      "level": 43,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0027-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0027-UNIT+E/indexdata/",
+      "folder": "0027-UNIT E",
+      "shot": "0027",
+      "sheet": {
+        "row": 133,
+        "label": "LEVEL 43 - UNIT E"
+      }
+    },
+    {
+      "id": "L43-E-twilight",
+      "level": 43,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0412-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0412-UNIT+E/indexdata/",
+      "folder": "0412-UNIT E",
+      "shot": "0412",
+      "sheet": {
+        "row": 39,
+        "label": "LEVEL 43 - UNIT E"
+      }
+    },
+    {
+      "id": "L43-F-day",
+      "level": 43,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0581-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+43/0581-UNIT+F/indexdata/",
+      "folder": "0581-UNIT F",
+      "shot": "0581",
+      "sheet": {
+        "row": 134,
+        "label": "LEVEL 43 - UNIT F"
+      }
+    },
+    {
+      "id": "L43-F-twilight",
+      "level": 43,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0059-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+43/0059-UNIT+F/indexdata/",
+      "folder": "0059-UNIT F",
+      "shot": "0059",
+      "sheet": {
+        "row": 40,
+        "label": "LEVEL 43 - UNIT F"
+      }
+    },
+    {
+      "id": "L37-A-day",
+      "level": 37,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0583-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0583-UNIT+A/indexdata/",
+      "folder": "0583-UNIT A",
+      "shot": "0583",
+      "sheet": {
+        "row": 136,
+        "label": "LEVEL 37 - UNIT A"
+      }
+    },
+    {
+      "id": "L37-A-twilight",
+      "level": 37,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0033-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0033-UNIT+A/indexdata/",
+      "folder": "0033-UNIT A",
+      "shot": "0033",
+      "sheet": {
+        "row": 42,
+        "label": "LEVEL 37 - UNIT A"
+      }
+    },
+    {
+      "id": "L37-B-day",
+      "level": 37,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0022-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0022-UNIT+B/indexdata/",
+      "folder": "0022-UNIT B",
+      "shot": "0022",
+      "sheet": {
+        "row": 137,
+        "label": "LEVEL 37 - UNIT B"
+      }
+    },
+    {
+      "id": "L37-B-twilight",
+      "level": 37,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0940-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0940-UNIT+B/indexdata/",
+      "folder": "0940-UNIT B",
+      "shot": "0940",
+      "sheet": {
+        "row": 43,
+        "label": "LEVEL 37 - UNIT B"
+      }
+    },
+    {
+      "id": "L37-B-W-day",
+      "level": 37,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0022-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0022-UNIT+B+WEST/indexdata/",
+      "folder": "0022-UNIT B WEST",
+      "shot": "0022",
+      "sheet": {
+        "row": 138,
+        "label": "LEVEL 37 - UNIT B WEST"
+      }
+    },
+    {
+      "id": "L37-B-W-twilight",
+      "level": 37,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0940-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0940-UNIT+B+WEST/indexdata/",
+      "folder": "0940-UNIT B WEST",
+      "shot": "0940",
+      "sheet": {
+        "row": 44,
+        "label": "LEVEL 37 - UNIT B WEST"
+      }
+    },
+    {
+      "id": "L37-C-day",
+      "level": 37,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0022-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0022-UNIT+C/indexdata/",
+      "folder": "0022-UNIT C",
+      "shot": "0022",
+      "sheet": {
+        "row": 139,
+        "label": "LEVEL 37 - UNIT C"
+      }
+    },
+    {
+      "id": "L37-C-twilight",
+      "level": 37,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0940-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0940-UNIT+C/indexdata/",
+      "folder": "0940-UNIT C",
+      "shot": "0940",
+      "sheet": {
+        "row": 45,
+        "label": "LEVEL 37 - UNIT C"
+      }
+    },
+    {
+      "id": "L37-C-W-day",
+      "level": 37,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0022-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0022-UNIT+C+WEST/indexdata/",
+      "folder": "0022-UNIT C WEST",
+      "shot": "0022",
+      "sheet": {
+        "row": 140,
+        "label": "LEVEL 37 - UNIT C WEST"
+      }
+    },
+    {
+      "id": "L37-C-W-twilight",
+      "level": 37,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0940-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0940-UNIT+C+WEST/indexdata/",
+      "folder": "0940-UNIT C WEST",
+      "shot": "0940",
+      "sheet": {
+        "row": 46,
+        "label": "LEVEL 37 - UNIT C WEST"
+      }
+    },
+    {
+      "id": "L37-D-day",
+      "level": 37,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0192-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0192-UNIT+D/indexdata/",
+      "folder": "0192-UNIT D",
+      "shot": "0192",
+      "sheet": {
+        "row": 141,
+        "label": "LEVEL 37 - UNIT D"
+      }
+    },
+    {
+      "id": "L37-D-twilight",
+      "level": 37,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0656-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0656-UNIT+D/indexdata/",
+      "folder": "0656-UNIT D",
+      "shot": "0656",
+      "sheet": {
+        "row": 47,
+        "label": "LEVEL 37 - UNIT D"
+      }
+    },
+    {
+      "id": "L37-E-day",
+      "level": 37,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0192-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0192-UNIT+E/indexdata/",
+      "folder": "0192-UNIT E",
+      "shot": "0192",
+      "sheet": {
+        "row": 142,
+        "label": "LEVEL 37 - UNIT E"
+      }
+    },
+    {
+      "id": "L37-E-twilight",
+      "level": 37,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0656-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0656-UNIT+E/indexdata/",
+      "folder": "0656-UNIT E",
+      "shot": "0656",
+      "sheet": {
+        "row": 48,
+        "label": "LEVEL 37 - UNIT E"
+      }
+    },
+    {
+      "id": "L37-F-day",
+      "level": 37,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0583-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+37/0583-UNIT+F/indexdata/",
+      "folder": "0583-UNIT F",
+      "shot": "0583",
+      "sheet": {
+        "row": 143,
+        "label": "LEVEL 37 - UNIT F"
+      }
+    },
+    {
+      "id": "L37-F-twilight",
+      "level": 37,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0033-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+37/0033-UNIT+F/indexdata/",
+      "folder": "0033-UNIT F",
+      "shot": "0033",
+      "sheet": {
+        "row": 49,
+        "label": "LEVEL 37 - UNIT F"
+      }
+    },
+    {
+      "id": "L30-A-day",
+      "level": 30,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0584-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0584-UNIT+A/indexdata/",
+      "folder": "0584-UNIT A",
+      "shot": "0584",
+      "sheet": {
+        "row": 145,
+        "label": "LEVEL 30 - UNIT A"
+      }
+    },
+    {
+      "id": "L30-A-twilight",
+      "level": 30,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0034-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0034-UNIT+A/indexdata/",
+      "folder": "0034-UNIT A",
+      "shot": "0034",
+      "sheet": {
+        "row": 51,
+        "label": "LEVEL 30 - UNIT A"
+      }
+    },
+    {
+      "id": "L30-B-day",
+      "level": 30,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0023-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0023-UNIT+B/indexdata/",
+      "folder": "0023-UNIT B",
+      "shot": "0023",
+      "sheet": {
+        "row": 146,
+        "label": "LEVEL 30 - UNIT B"
+      }
+    },
+    {
+      "id": "L30-B-twilight",
+      "level": 30,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0941-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0941-UNIT+B/indexdata/",
+      "folder": "0941-UNIT B",
+      "shot": "0941",
+      "sheet": {
+        "row": 52,
+        "label": "LEVEL 30 - UNIT B"
+      }
+    },
+    {
+      "id": "L30-B-W-day",
+      "level": 30,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0023-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0023-UNIT+B+WEST/indexdata/",
+      "folder": "0023-UNIT B WEST",
+      "shot": "0023",
+      "sheet": {
+        "row": 147,
+        "label": "LEVEL 30 - UNIT B WEST"
+      }
+    },
+    {
+      "id": "L30-B-W-twilight",
+      "level": 30,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0941-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0941-UNIT+B+WEST/indexdata/",
+      "folder": "0941-UNIT B WEST",
+      "shot": "0941",
+      "sheet": {
+        "row": 53,
+        "label": "LEVEL 30 - UNIT B WEST"
+      }
+    },
+    {
+      "id": "L30-C-day",
+      "level": 30,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0023-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0023-UNIT+C/indexdata/",
+      "folder": "0023-UNIT C",
+      "shot": "0023",
+      "sheet": {
+        "row": 148,
+        "label": "LEVEL 30 - UNIT C"
+      }
+    },
+    {
+      "id": "L30-C-twilight",
+      "level": 30,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0941-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0941-UNIT+C/indexdata/",
+      "folder": "0941-UNIT C",
+      "shot": "0941",
+      "sheet": {
+        "row": 54,
+        "label": "LEVEL 30 - UNIT C"
+      }
+    },
+    {
+      "id": "L30-C-W-day",
+      "level": 30,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0023-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0023-UNIT+C+WEST/indexdata/",
+      "folder": "0023-UNIT C WEST",
+      "shot": "0023",
+      "sheet": {
+        "row": 149,
+        "label": "LEVEL 30 - UNIT C WEST"
+      }
+    },
+    {
+      "id": "L30-C-W-twilight",
+      "level": 30,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0941-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0941-UNIT+C+WEST/indexdata/",
+      "folder": "0941-UNIT C WEST",
+      "shot": "0941",
+      "sheet": {
+        "row": 55,
+        "label": "LEVEL 30 - UNIT C WEST"
+      }
+    },
+    {
+      "id": "L30-D-day",
+      "level": 30,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0193-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0193-UNIT+D/indexdata/",
+      "folder": "0193-UNIT D",
+      "shot": "0193",
+      "sheet": {
+        "row": 150,
+        "label": "LEVEL 30 - UNIT D"
+      }
+    },
+    {
+      "id": "L30-D-twilight",
+      "level": 30,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0657-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0657-UNIT+D/indexdata/",
+      "folder": "0657-UNIT D",
+      "shot": "0657",
+      "sheet": {
+        "row": 56,
+        "label": "LEVEL 30 - UNIT D"
+      }
+    },
+    {
+      "id": "L30-E-day",
+      "level": 30,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0193-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0193-UNIT+E/indexdata/",
+      "folder": "0193-UNIT E",
+      "shot": "0193",
+      "sheet": {
+        "row": 151,
+        "label": "LEVEL 30 - UNIT E"
+      }
+    },
+    {
+      "id": "L30-E-twilight",
+      "level": 30,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0657-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0657-UNIT+E/indexdata/",
+      "folder": "0657-UNIT E",
+      "shot": "0657",
+      "sheet": {
+        "row": 57,
+        "label": "LEVEL 30 - UNIT E"
+      }
+    },
+    {
+      "id": "L30-F-day",
+      "level": 30,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0584-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+30/0584-UNIT+F/indexdata/",
+      "folder": "0584-UNIT F",
+      "shot": "0584",
+      "sheet": {
+        "row": 152,
+        "label": "LEVEL 30 - UNIT F"
+      }
+    },
+    {
+      "id": "L30-F-twilight",
+      "level": 30,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0034-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+30/0034-UNIT+F/indexdata/",
+      "folder": "0034-UNIT F",
+      "shot": "0034",
+      "sheet": {
+        "row": 58,
+        "label": "LEVEL 30 - UNIT F"
+      }
+    },
+    {
+      "id": "L23-A-day",
+      "level": 23,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0585-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0585-UNIT+A/indexdata/",
+      "folder": "0585-UNIT A",
+      "shot": "0585",
+      "sheet": {
+        "row": 154,
+        "label": "LEVEL 23 - UNIT A"
+      }
+    },
+    {
+      "id": "L23-A-twilight",
+      "level": 23,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0035-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0035-UNIT+A/indexdata/",
+      "folder": "0035-UNIT A",
+      "shot": "0035",
+      "sheet": {
+        "row": 60,
+        "label": "LEVEL 23 - UNIT A"
+      }
+    },
+    {
+      "id": "L23-B-day",
+      "level": 23,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0024-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0024-UNIT+B/indexdata/",
+      "folder": "0024-UNIT B",
+      "shot": "0024",
+      "sheet": {
+        "row": 155,
+        "label": "LEVEL 23 - UNIT B"
+      }
+    },
+    {
+      "id": "L23-B-twilight",
+      "level": 23,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0942-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0942-UNIT+B/indexdata/",
+      "folder": "0942-UNIT B",
+      "shot": "0942",
+      "sheet": {
+        "row": 61,
+        "label": "LEVEL 23 - UNIT B"
+      }
+    },
+    {
+      "id": "L23-B-W-day",
+      "level": 23,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0024-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0024-UNIT+B+WEST/indexdata/",
+      "folder": "0024-UNIT B WEST",
+      "shot": "0024",
+      "sheet": {
+        "row": 156,
+        "label": "LEVEL 23 - UNIT B WEST"
+      }
+    },
+    {
+      "id": "L23-B-W-twilight",
+      "level": 23,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0942-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0942-UNIT+B+WEST/indexdata/",
+      "folder": "0942-UNIT B WEST",
+      "shot": "0942",
+      "sheet": {
+        "row": 62,
+        "label": "LEVEL 23 - UNIT B WEST"
+      }
+    },
+    {
+      "id": "L23-C-day",
+      "level": 23,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0024-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0024-UNIT+C/indexdata/",
+      "folder": "0024-UNIT C",
+      "shot": "0024",
+      "sheet": {
+        "row": 157,
+        "label": "LEVEL 23 - UNIT C"
+      }
+    },
+    {
+      "id": "L23-C-twilight",
+      "level": 23,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0942-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0942-UNIT+C/indexdata/",
+      "folder": "0942-UNIT C",
+      "shot": "0942",
+      "sheet": {
+        "row": 63,
+        "label": "LEVEL 23 - UNIT C"
+      }
+    },
+    {
+      "id": "L23-C-W-day",
+      "level": 23,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0024-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0024-UNIT+C+WEST/indexdata/",
+      "folder": "0024-UNIT C WEST",
+      "shot": "0024",
+      "sheet": {
+        "row": 158,
+        "label": "LEVEL 23 - UNIT C WEST"
+      }
+    },
+    {
+      "id": "L23-C-W-twilight",
+      "level": 23,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0942-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0942-UNIT+C+WEST/indexdata/",
+      "folder": "0942-UNIT C WEST",
+      "shot": "0942",
+      "sheet": {
+        "row": 64,
+        "label": "LEVEL 23 - UNIT C WEST"
+      }
+    },
+    {
+      "id": "L23-D-day",
+      "level": 23,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0194-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0194-UNIT+D/indexdata/",
+      "folder": "0194-UNIT D",
+      "shot": "0194",
+      "sheet": {
+        "row": 159,
+        "label": "LEVEL 23 - UNIT D"
+      }
+    },
+    {
+      "id": "L23-D-twilight",
+      "level": 23,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0658-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0658-UNIT+D/indexdata/",
+      "folder": "0658-UNIT D",
+      "shot": "0658",
+      "sheet": {
+        "row": 65,
+        "label": "LEVEL 23 - UNIT D"
+      }
+    },
+    {
+      "id": "L23-E-day",
+      "level": 23,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0194-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0194-UNIT+E/indexdata/",
+      "folder": "0194-UNIT E",
+      "shot": "0194",
+      "sheet": {
+        "row": 160,
+        "label": "LEVEL 23 - UNIT E"
+      }
+    },
+    {
+      "id": "L23-E-twilight",
+      "level": 23,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0658-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0658-UNIT+E/indexdata/",
+      "folder": "0658-UNIT E",
+      "shot": "0658",
+      "sheet": {
+        "row": 66,
+        "label": "LEVEL 23 - UNIT E"
+      }
+    },
+    {
+      "id": "L23-F-day",
+      "level": 23,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0585-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+23/0585-UNIT+F/indexdata/",
+      "folder": "0585-UNIT F",
+      "shot": "0585",
+      "sheet": {
+        "row": 161,
+        "label": "LEVEL 23 - UNIT F"
+      }
+    },
+    {
+      "id": "L23-F-twilight",
+      "level": 23,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0035-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+23/0035-UNIT+F/indexdata/",
+      "folder": "0035-UNIT F",
+      "shot": "0035",
+      "sheet": {
+        "row": 67,
+        "label": "LEVEL 23 - UNIT F"
+      }
+    },
+    {
+      "id": "L16-A-day",
+      "level": 16,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0586-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0586-UNIT+A/indexdata/",
+      "folder": "0586-UNIT A",
+      "shot": "0586",
+      "sheet": {
+        "row": 163,
+        "label": "LEVEL 16 UNIT A"
+      }
+    },
+    {
+      "id": "L16-A-twilight",
+      "level": 16,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0036-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0036-UNIT+A/indexdata/",
+      "folder": "0036-UNIT A",
+      "shot": "0036",
+      "sheet": {
+        "row": 69,
+        "label": "LEVEL 16 UNIT A"
+      }
+    },
+    {
+      "id": "L16-B-day",
+      "level": 16,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0025-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0025-UNIT+B/indexdata/",
+      "folder": "0025-UNIT B",
+      "shot": "0025",
+      "sheet": {
+        "row": 164,
+        "label": "LEVEL 16 UNIT B"
+      }
+    },
+    {
+      "id": "L16-B-twilight",
+      "level": 16,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0943-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0943-UNIT+B/indexdata/",
+      "folder": "0943-UNIT B",
+      "shot": "0943",
+      "sheet": {
+        "row": 70,
+        "label": "LEVEL 16 UNIT B"
+      }
+    },
+    {
+      "id": "L16-B-W-day",
+      "level": 16,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0025-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0025-UNIT+B+WEST/indexdata/",
+      "folder": "0025-UNIT B WEST",
+      "shot": "0025",
+      "sheet": {
+        "row": 165,
+        "label": "LEVEL 16 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L16-B-W-twilight",
+      "level": 16,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0943-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0943-UNIT+B+WEST/indexdata/",
+      "folder": "0943-UNIT B WEST",
+      "shot": "0943",
+      "sheet": {
+        "row": 71,
+        "label": "LEVEL 16 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L16-C-day",
+      "level": 16,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0025-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0025-UNIT+C/indexdata/",
+      "folder": "0025-UNIT C",
+      "shot": "0025",
+      "sheet": {
+        "row": 166,
+        "label": "LEVEL 16 UNIT C"
+      }
+    },
+    {
+      "id": "L16-C-twilight",
+      "level": 16,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0943-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0943-UNIT+C/indexdata/",
+      "folder": "0943-UNIT C",
+      "shot": "0943",
+      "sheet": {
+        "row": 72,
+        "label": "LEVEL 16 UNIT C"
+      }
+    },
+    {
+      "id": "L16-C-W-day",
+      "level": 16,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0025-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0025-UNIT+C+WEST/indexdata/",
+      "folder": "0025-UNIT C WEST",
+      "shot": "0025",
+      "sheet": {
+        "row": 167,
+        "label": "LEVEL 16 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L16-C-W-twilight",
+      "level": 16,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0943-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0943-UNIT+C+WEST/indexdata/",
+      "folder": "0943-UNIT C WEST",
+      "shot": "0943",
+      "sheet": {
+        "row": 73,
+        "label": "LEVEL 16 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L16-D-day",
+      "level": 16,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0195-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0195-UNIT+D/indexdata/",
+      "folder": "0195-UNIT D",
+      "shot": "0195",
+      "sheet": {
+        "row": 168,
+        "label": "LEVEL 16 UNIT D"
+      }
+    },
+    {
+      "id": "L16-D-twilight",
+      "level": 16,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0659-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0659-UNIT+D/indexdata/",
+      "folder": "0659-UNIT D",
+      "shot": "0659",
+      "sheet": {
+        "row": 74,
+        "label": "LEVEL 16 UNIT D"
+      }
+    },
+    {
+      "id": "L16-E-day",
+      "level": 16,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0195-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0195-UNIT+E/indexdata/",
+      "folder": "0195-UNIT E",
+      "shot": "0195",
+      "sheet": {
+        "row": 169,
+        "label": "LEVEL 16 UNIT E"
+      }
+    },
+    {
+      "id": "L16-E-twilight",
+      "level": 16,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0659-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0659-UNIT+E/indexdata/",
+      "folder": "0659-UNIT E",
+      "shot": "0659",
+      "sheet": {
+        "row": 75,
+        "label": "LEVEL 16 UNIT E"
+      }
+    },
+    {
+      "id": "L16-F-day",
+      "level": 16,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0586-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+16/0586-UNIT+F/indexdata/",
+      "folder": "0586-UNIT F",
+      "shot": "0586",
+      "sheet": {
+        "row": 170,
+        "label": "LEVEL 16 UNIT F"
+      }
+    },
+    {
+      "id": "L16-F-twilight",
+      "level": 16,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0036-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+16/0036-UNIT+F/indexdata/",
+      "folder": "0036-UNIT F",
+      "shot": "0036",
+      "sheet": {
+        "row": 76,
+        "label": "LEVEL 16 UNIT F"
+      }
+    },
+    {
+      "id": "L7-A-day",
+      "level": 7,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0587-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0587-UNIT+A/indexdata/",
+      "folder": "0587-UNIT A",
+      "shot": "0587",
+      "sheet": {
+        "row": 172,
+        "label": "LEVEL 7 UNIT A"
+      }
+    },
+    {
+      "id": "L7-A-twilight",
+      "level": 7,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0037-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0037-UNIT+A/indexdata/",
+      "folder": "0037-UNIT A",
+      "shot": "0037",
+      "sheet": {
+        "row": 78,
+        "label": "LEVEL 7 UNIT A"
+      }
+    },
+    {
+      "id": "L7-B-day",
+      "level": 7,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0026-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0026-UNIT+B/indexdata/",
+      "folder": "0026-UNIT B",
+      "shot": "0026",
+      "sheet": {
+        "row": 173,
+        "label": "LEVEL 7 UNIT B"
+      }
+    },
+    {
+      "id": "L7-B-twilight",
+      "level": 7,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0944-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0944-UNIT+B/indexdata/",
+      "folder": "0944-UNIT B",
+      "shot": "0944",
+      "sheet": {
+        "row": 79,
+        "label": "LEVEL 7 UNIT B"
+      }
+    },
+    {
+      "id": "L7-B-W-day",
+      "level": 7,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0026-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0026-UNIT+B+WEST/indexdata/",
+      "folder": "0026-UNIT B WEST",
+      "shot": "0026",
+      "sheet": {
+        "row": 174,
+        "label": "LEVEL 7 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L7-B-W-twilight",
+      "level": 7,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0944-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0944-UNIT+B+WEST/indexdata/",
+      "folder": "0944-UNIT B WEST",
+      "shot": "0944",
+      "sheet": {
+        "row": 80,
+        "label": "LEVEL 7 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L7-C-day",
+      "level": 7,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0026-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0026-UNIT+C/indexdata/",
+      "folder": "0026-UNIT C",
+      "shot": "0026",
+      "sheet": {
+        "row": 175,
+        "label": "LEVEL 7 UNIT C"
+      }
+    },
+    {
+      "id": "L7-C-twilight",
+      "level": 7,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0944-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0944-UNIT+C/indexdata/",
+      "folder": "0944-UNIT C",
+      "shot": "0944",
+      "sheet": {
+        "row": 81,
+        "label": "LEVEL 7 UNIT C"
+      }
+    },
+    {
+      "id": "L7-C-W-day",
+      "level": 7,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0026-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0026-UNIT+C+WEST/indexdata/",
+      "folder": "0026-UNIT C WEST",
+      "shot": "0026",
+      "sheet": {
+        "row": 176,
+        "label": "LEVEL 7 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L7-C-W-twilight",
+      "level": 7,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0944-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0944-UNIT+C+WEST/indexdata/",
+      "folder": "0944-UNIT C WEST",
+      "shot": "0944",
+      "sheet": {
+        "row": 82,
+        "label": "LEVEL 7 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L7-D-day",
+      "level": 7,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0196-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0196-UNIT+D/indexdata/",
+      "folder": "0196-UNIT D",
+      "shot": "0196",
+      "sheet": {
+        "row": 177,
+        "label": "LEVEL 7 UNIT D"
+      }
+    },
+    {
+      "id": "L7-D-twilight",
+      "level": 7,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0660-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0660-UNIT+D/indexdata/",
+      "folder": "0660-UNIT D",
+      "shot": "0660",
+      "sheet": {
+        "row": 83,
+        "label": "LEVEL 7 UNIT D"
+      }
+    },
+    {
+      "id": "L7-E-day",
+      "level": 7,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0196-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0196-UNIT+E/indexdata/",
+      "folder": "0196-UNIT E",
+      "shot": "0196",
+      "sheet": {
+        "row": 178,
+        "label": "LEVEL 7 UNIT E"
+      }
+    },
+    {
+      "id": "L7-E-twilight",
+      "level": 7,
+      "line": "E",
+      "variant": "main",
+      "position": "E",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0660-UNIT+E/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0660-UNIT+E/indexdata/",
+      "folder": "0660-UNIT E",
+      "shot": "0660",
+      "sheet": {
+        "row": 84,
+        "label": "LEVEL 7 UNIT E"
+      }
+    },
+    {
+      "id": "L7-F-day",
+      "level": 7,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0587-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+7/0587-UNIT+F/indexdata/",
+      "folder": "0587-UNIT F",
+      "shot": "0587",
+      "sheet": {
+        "row": 179,
+        "label": "LEVEL 7 UNIT F"
+      }
+    },
+    {
+      "id": "L7-F-twilight",
+      "level": 7,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0037-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+7/0037-UNIT+F/indexdata/",
+      "folder": "0037-UNIT F",
+      "shot": "0037",
+      "sheet": {
+        "row": 85,
+        "label": "LEVEL 7 UNIT F"
+      }
+    },
+    {
+      "id": "L4-A-day",
+      "level": 4,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0588-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0588-UNIT+A/indexdata/",
+      "folder": "0588-UNIT A",
+      "shot": "0588",
+      "sheet": {
+        "row": 181,
+        "label": "LEVEL 4 UNIT A"
+      }
+    },
+    {
+      "id": "L4-A-twilight",
+      "level": 4,
+      "line": "A",
+      "variant": "main",
+      "position": "A",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0038-UNIT+A/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0038-UNIT+A/indexdata/",
+      "folder": "0038-UNIT A",
+      "shot": "0038",
+      "sheet": {
+        "row": 87,
+        "label": "LEVEL 4 UNIT A"
+      }
+    },
+    {
+      "id": "L4-B-day",
+      "level": 4,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0027-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0027-UNIT+B/indexdata/",
+      "folder": "0027-UNIT B",
+      "shot": "0027",
+      "sheet": {
+        "row": 182,
+        "label": "LEVEL 4 UNIT B"
+      }
+    },
+    {
+      "id": "L4-B-twilight",
+      "level": 4,
+      "line": "B",
+      "variant": "main",
+      "position": "B",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0945-UNIT+B/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0945-UNIT+B/indexdata/",
+      "folder": "0945-UNIT B",
+      "shot": "0945",
+      "sheet": {
+        "row": 88,
+        "label": "LEVEL 4 UNIT B"
+      }
+    },
+    {
+      "id": "L4-B-W-day",
+      "level": 4,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0027-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0027-UNIT+B+WEST/indexdata/",
+      "folder": "0027-UNIT B WEST",
+      "shot": "0027",
+      "sheet": {
+        "row": 183,
+        "label": "LEVEL 4 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L4-B-W-twilight",
+      "level": 4,
+      "line": "B",
+      "variant": "west",
+      "position": "B-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0945-UNIT+B+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0945-UNIT+B+WEST/indexdata/",
+      "folder": "0945-UNIT B WEST",
+      "shot": "0945",
+      "sheet": {
+        "row": 89,
+        "label": "LEVEL 4 UNIT B WEST"
+      }
+    },
+    {
+      "id": "L4-C-day",
+      "level": 4,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0027-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0027-UNIT+C/indexdata/",
+      "folder": "0027-UNIT C",
+      "shot": "0027",
+      "sheet": {
+        "row": 184,
+        "label": "LEVEL 4 UNIT C"
+      }
+    },
+    {
+      "id": "L4-C-twilight",
+      "level": 4,
+      "line": "C",
+      "variant": "main",
+      "position": "C",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0945-UNIT+C/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0945-UNIT+C/indexdata/",
+      "folder": "0945-UNIT C",
+      "shot": "0945",
+      "sheet": {
+        "row": 90,
+        "label": "LEVEL 4 UNIT C"
+      }
+    },
+    {
+      "id": "L4-C-W-day",
+      "level": 4,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0027-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0027-UNIT+C+WEST/indexdata/",
+      "folder": "0027-UNIT C WEST",
+      "shot": "0027",
+      "sheet": {
+        "row": 185,
+        "label": "LEVEL 4 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L4-C-W-twilight",
+      "level": 4,
+      "line": "C",
+      "variant": "west",
+      "position": "C-W",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0945-UNIT+C+WEST/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0945-UNIT+C+WEST/indexdata/",
+      "folder": "0945-UNIT C WEST",
+      "shot": "0945",
+      "sheet": {
+        "row": 91,
+        "label": "LEVEL 4 UNIT C WEST"
+      }
+    },
+    {
+      "id": "L4-D-day",
+      "level": 4,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0588-LEVEL+4-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0588-LEVEL+4-UNIT+D/indexdata/",
+      "folder": "0588-LEVEL 4-UNIT D",
+      "shot": "0588",
+      "sheet": {
+        "row": 187,
+        "label": "LEVEL 4 UNIT D"
+      }
+    },
+    {
+      "id": "L4-D-twilight",
+      "level": 4,
+      "line": "D",
+      "variant": "main",
+      "position": "D",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0038-LEVEL+4-UNIT+D/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0038-LEVEL+4-UNIT+D/indexdata/",
+      "folder": "0038-LEVEL 4-UNIT D",
+      "shot": "0038",
+      "sheet": {
+        "row": 93,
+        "label": "LEVEL 4 UNIT D"
+      }
+    },
+    {
+      "id": "L4-F-day",
+      "level": 4,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "day",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0588-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/F256/DAY/LT-AL/LEVEL+4/0588-UNIT+F/indexdata/",
+      "folder": "0588-UNIT F",
+      "shot": "0588",
+      "sheet": {
+        "row": 186,
+        "label": "LEVEL 4 UNIT F"
+      }
+    },
+    {
+      "id": "L4-F-twilight",
+      "level": 4,
+      "line": "F",
+      "variant": "main",
+      "position": "F",
+      "time": "twilight",
+      "type": "CUT VIEW",
+      "url": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0038-UNIT+F/index.html",
+      "packageBase": "https://sftp-bucket-inflightll.s3.us-east-1.amazonaws.com/customer/13TH+FLOOR+INVESTMENTS+-+KEY+INTERNATIONAL/PRJ2589+-+609+BRICKELL+AVE/CUT+VIEW/M316/TWILIGHT/CUT+VIEW+LT-AL/LEVEL+4/0038-UNIT+F/indexdata/",
+      "folder": "0038-UNIT F",
+      "shot": "0038",
+      "sheet": {
+        "row": 92,
+        "label": "LEVEL 4 UNIT F"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$comment": "Medidas tomadas sobre public/brand/hero-3840.webp. 'top' y 'bottom' son la Y del eje de la torre en el borde superior del primer piso y el inferior del último. Los anillos de amenidades del render (pisos 60-61, 44-45, 28-29) sirven de referencia. Generar data/hero.json con npm run data:hero.",
+  "image": { "width": 3841, "height": 2919, "src1920": "/brand/hero-1920.webp", "src3840": "/brand/hero-3840.webp" },
+  "tower": { "cx": 3322, "halfWidth": 168 },
+  "horizonY": 1400,
+  "curvature": 0.075,
+  "bands": [
+    { "from": 71, "to": 62, "top": 454, "bottom": 760 },
+    { "from": 59, "to": 46, "top": 813, "bottom": 1240 },
+    { "from": 43, "to": 30, "top": 1305, "bottom": 1715 },
+    { "from": 27, "to": 12, "top": 1785, "bottom": 2315 },
+    { "from": 7, "to": 7, "top": 2435, "bottom": 2470 },
+    { "from": 4, "to": 4, "top": 2560, "bottom": 2598 }
+  ]
+}
